@@ -133,12 +133,22 @@ tags: [data, visualization]
 
 ## Configuration Notes
 
-- The site uses Jekyll 4.3 with custom layouts (no theme dependency)
+- The site uses Jekyll 4.3 with Materialize CSS framework for Material Design styling
+- Materialize CSS is loaded from CDN in `_layouts/default.html`
 - Plugins: `jekyll-feed`, `jekyll-seo-tag`, and `jekyll-paginate`
 - Collections: `photos` and `experiments` for flexible content organization
 - LiveReload is enabled for automatic browser refresh during development
 - Photos can be hosted locally in `assets/images/` or linked to Flickr/Glass
 - Future migration to `usethedata.net` will require updating `url` in `_config.yml`
+
+## Design System
+
+- **Framework:** Materialize CSS 1.0.0 (Material Design)
+- **Icons:** Material Icons
+- **Typography:** Roboto font family
+- **Color scheme:** Blue (#1565c0 primary, #0d47a1 dark)
+- **Layout:** Responsive grid system with cards and hover effects
+- **Navigation:** Responsive navbar with mobile sidenav
 
 ## Adding Images
 
