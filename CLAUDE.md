@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a personal professional profile site for Bruce E. Wilson, built with Jekyll and deployed to GitHub Pages. Hosted at `usethedata.me` (custom domain, DNS at Hover). The GitHub repository is `usethedata/profile-site`. The blog/photos/experiments site will be a separate repo at `usethedata.net`.
+This is a personal professional profile site for Bruce E. Wilson, built with Jekyll and deployed to GitHub Pages. Hosted at `usethedata.me` (custom domain, DNS at Hover). The GitHub repository is `usethedata/profile-site`. The blog/photos site is a separate repo (`usethedata/personal-website`) at `usethedata.net`.
 
 The site is a single-page professional profile emphasizing Earth science data systems, cyberinfrastructure, FAIR data, and interdisciplinary science expertise. It targets an audience of scientific committee selectors and professional peers.
 
@@ -58,7 +58,6 @@ Deployment workflow: `.github/workflows/deploy.yml`
 - `CNAME` - Custom domain configuration for GitHub Pages
 - `index.md` - Homepage / profile page (the main content page)
 - `context/` - **Local only** - AI development context files (never committed)
-- `my_context/` - **Local only** - AI development context files (never committed)
 - `_site/` - Generated static site (git-ignored)
 
 ## Key Files
@@ -86,7 +85,7 @@ Deployment workflow: `.github/workflows/deploy.yml`
 
 ## Context Folders (AI Development)
 
-The `context/` and `my_context/` folders are for **local use only** and store temporary files used for AI-assisted development:
+The `context/` folder is for **local use only** and stores temporary files used for AI-assisted development:
 
 - Reference materials and notes
 - Source documents (CV, bio sketches, etc.)

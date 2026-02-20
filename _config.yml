@@ -58,4 +58,3 @@ exclude:
   - vendor/
   - .bundle/
   - context/
-  - my_context/

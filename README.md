@@ -1,6 +1,6 @@
-# UseTheData
+# Profile Site
 
-A personal site for sharing photos, writing, and data experiments.
+Professional profile site for Bruce E. Wilson, Ph.D. Hosted at [usethedata.me](https://usethedata.me).
 
 ## Local Development with Docker
 
@@ -32,11 +32,7 @@ bundle exec jekyll serve --livereload
 ## Deployment
 
 The site automatically deploys to GitHub Pages when changes are pushed to:
-- `main` branch → Production site at https://usethedata.github.io
-- `dev` branch → Development site for testing GitHub rendering
+- `main` branch → Production site at https://usethedata.me
+- `dev` branch → Development environment for testing GitHub rendering
 
 Feature branches only render locally.
-
-## Future Domain
-
-This site will eventually be hosted at usethedata.net.
