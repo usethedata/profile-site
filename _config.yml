@@ -3,10 +3,34 @@ description: Earth science data systems, cyberinfrastructure, and scientific inf
 baseurl: ""
 url: "https://usethedata.me"
 
+# Theme
+remote_theme: usethedata/site-theme
+
 # Author info
 author:
   name: Bruce E. Wilson
   email: usethedata@gmail.com
+
+# Navigation links
+header_links:
+  - title: Google Scholar
+    url: https://scholar.google.com/citations?user=38ITdvsAAAAJ&hl=en
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/bewilson/
+  - title: ORCID
+    url: https://orcid.org/0000-0002-1421-1728
+  - title: GitHub
+    url: https://github.com/usethedata
+
+footer_links:
+  - title: Google Scholar
+    url: https://scholar.google.com/citations?user=38ITdvsAAAAJ&hl=en
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/bewilson/
+  - title: ORCID
+    url: https://orcid.org/0000-0002-1421-1728
+  - title: GitHub
+    url: https://github.com/usethedata
 
 # Build settings
 markdown: kramdown
@@ -14,6 +38,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Defaults
 defaults:

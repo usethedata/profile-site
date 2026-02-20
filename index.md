@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bruce E. Wilson, Ph.D.
+title: Bruce E. Wilson
 ---
 
 <!-- Hero Section -->
@@ -31,7 +31,7 @@ title: Bruce E. Wilson, Ph.D.
 
 <p>For most of the past two decades, I focused on making Earth science data as Findable, Accessible, Interoperable, and Reusable (FAIR) as practical. As Manager of the NASA-funded <a href="https://daac.ornl.gov/">ORNL Distributed Active Archive Center</a> (ORNL DAAC), I led one of 12 centers in NASA's Earth Observing System Data and Information System (EOSDIS), serving hundreds of thousands of users worldwide. The ORNL DAAC achieved the top customer satisfaction scores across NASA EOSDIS for 2020, 2021, and 2022.</p>
 
-<p>I retired from Oak Ridge National Laboratory in September 2025 as a Distinguished Staff Scientist. I currently serve on the <a href="https://science.nasa.gov/astrobiology/strategy/dares/">NASA DARES Task Force 2</a> (Decadal Astrobiology Research and Exploration Strategy) and hold an Adjunct Faculty appointment at the University of Tennessee's <a href="https://bredesencenter.utk.edu/">Bredesen Center</a> for Interdisciplinary Studies.</p>
+<p>I retired from Oak Ridge National Laboratory in September 2025 as a Distinguished Staff Scientist. I currently serve on the <a href="https://science.nasa.gov/astrobiology/strategy/dares/">NASA DARES Task Force 2</a> (Decadal Astrobiology Research and Exploration Strategy) and hold an Adjunct Faculty appointment at the University of Tennessee's <a href="https://bredesencenter.utk.edu/">Bredesen Center for Interdisciplinary Studies</a>. </p>
 </div>
 
 <div class="section">
