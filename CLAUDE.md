@@ -20,7 +20,8 @@ docker-compose up --build
 # Stop the container
 docker-compose down
 
-# Access the site at http://localhost:4000
+# Access the site at http://localhost:4100
+# (Host port 4100 avoids NoMachine's default TCP 4000, which is in use on Bruce's Macs.)
 ```
 
 Docker is used for local development to provide a consistent environment and as a learning tool.

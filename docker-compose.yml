@@ -4,7 +4,7 @@ services:
   jekyll:
     build: .
     ports:
-      - "4000:4000"
+      - "4100:4000"    # Host 4100 avoids NoMachine's default TCP 4000
       - "35729:35729"  # LiveReload
     volumes:
       - .:/site
