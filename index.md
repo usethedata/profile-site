@@ -31,7 +31,9 @@ title: Bruce E. Wilson
 
 <p>My work over much of the last two decades has focused on making Earth science data as Findable, Accessible, Interoperable, and Reusable (FAIR) as practical. As Manager of the NASA-funded <a href="https://www.earthdata.nasa.gov/centers/ornl-daac">ORNL Distributed Active Archive Center</a> (ORNL DAAC), I led one of the data archive and distribution centers in NASA's Earth Observing System Data and Information System (EOSDIS), which serves hundreds of thousands of users worldwide. </p>
 
-<p>I retired from Oak Ridge National Laboratory in September 2025. I currently serve on the <a href="https://science.nasa.gov/astrobiology/strategy/dares/">NASA DARES Task Force 2</a> (Decadal Astrobiology Research and Exploration Strategy) and hold a Graduate Research Advisor appointment at the University of Tennessee's <a href="https://bredesencenter.utk.edu/">Bredesen Center for Interdisciplinary Studies</a>. I am currently experimenting with using AI methods to develop and execute data pipelines as part of a passion project.</p>
+<p>I retired from Oak Ridge National Laboratory in September 2025 and now provide independent consulting on scientific data infrastructure and scientific data management. I also serve on the <a href="https://science.nasa.gov/astrobiology/strategy/dares/">NASA DARES Task Force 2</a> (Decadal Astrobiology Research and Exploration Strategy) and hold a Graduate Research Advisor appointment at the University of Tennessee's <a href="https://bredesencenter.utk.edu/">Bredesen Center for Interdisciplinary Studies</a>. I am currently experimenting with using AI methods to develop and execute data pipelines as part of a passion project.</p>
+
+<p>Contact me at <a href="mailto:usethedata@gmail.com">usethedata@gmail.com</a> if you're interested in discussing consulting work.</p>
 </div>
 
 <div class="section">
@@ -59,6 +61,12 @@ title: Bruce E. Wilson
 
 <div class="section">
 <h2>Professional Experience</h2>
+
+<div class="experience-item">
+    <div class="role">Independent Consultant, Scientific Data Infrastructure &amp; Data Management</div>
+    <div class="org"><span class="dates">(2025&ndash;present)</span></div>
+    <div class="detail">Advising and assisting clients with scientific data infrastructure, data management, data pipelines, FAIR data practices, and the architecture of systems that make data findable, accessible, and reusable.</div>
+</div>
 
 <div class="experience-item">
     <div class="role">Distinguished Staff Scientist, ORNL DAAC Manager &amp; Group Leader</div>
