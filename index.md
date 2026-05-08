@@ -33,7 +33,7 @@ title: Bruce E. Wilson
 
 <p>I retired from Oak Ridge National Laboratory in September 2025 and now provide independent consulting on scientific data infrastructure and scientific data management. I also serve on the <a href="https://science.nasa.gov/astrobiology/strategy/dares/">NASA DARES Task Force 2</a> (Decadal Astrobiology Research and Exploration Strategy) and hold a Graduate Research Advisor appointment at the University of Tennessee's <a href="https://bredesencenter.utk.edu/">Bredesen Center for Interdisciplinary Studies</a>. I am currently experimenting with using AI methods to develop and execute data pipelines as part of a passion project.</p>
 
-<p>Contact me at <a href="mailto:usethedata@gmail.com">usethedata@gmail.com</a> if you're interested in discussing consulting work.</p>
+<p>Contact me at <a href="mailto: bruce@usethedata.net">bruce@usethedata.net</a> if you're interested in discussing consulting work.</p>
 </div>
 
 <div class="section">
@@ -117,6 +117,11 @@ title: Bruce E. Wilson
 <div class="experience-item">
     <div class="role">NASA Planetary Data Ecosystem IRB Co-Chair <span class="dates">(2020&ndash;2021)</span></div>
     <div class="detail">Co-chaired independent review board and led the Data Mining and Automation Subcommittee. Produced recommendations for improving NASA's planetary data systems.</div>
+</div>
+
+<div class="experience-item">
+    <div class="role">Pacific Northwest National Laboratory Assessment of Data Management Practices<span class="dates">(2021&ndash;2021)</span></div>
+    <div class="detail">Invited panel member.</div>
 </div>
 
 <div class="experience-item">
@@ -217,7 +222,7 @@ title: Bruce E. Wilson
 <div class="section">
 <h2>Selected Awards &amp; Recognition</h2>
 
-<div class="award-item"><span class="award-name">NASA Agency Award for Group Achievement</span> (2022)</div>
+<div class="award-item"><span class="award-name">NASA Agency Award for Group Achievement</span> (2022, 2025)</div>
 <div class="award-item"><span class="award-name">Senior Member, Association for Computing Machinery</span> (2020)</div>
 <div class="award-item"><span class="award-name">Department of Energy Outstanding Mentor Award</span> (2008)</div>
 <div class="award-item"><span class="award-name">National Science Foundation Graduate Fellow</span> (1985&ndash;1988)</div>
