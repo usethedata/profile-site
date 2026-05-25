@@ -107,6 +107,20 @@ title: Bruce E. Wilson
 </div>
 
 <div class="section">
+<h2>Education</h2>
+
+<div class="education-item">
+    <span class="degree">Ph.D., Analytical Chemistry</span><br>
+    <span class="school">University of Washington, Seattle</span>
+</div>
+
+<div class="education-item">
+    <span class="degree">B.S. with High Honors, Chemistry and Mathematics</span><br>
+    <span class="school">Michigan State University</span>
+</div>
+</div>
+
+<div class="section">
 <h2>Service &amp; Leadership</h2>
 
 <div class="experience-item">
@@ -203,20 +217,6 @@ title: Bruce E. Wilson
 <p class="scholar-link">
     <a href="https://scholar.google.com/citations?user=38ITdvsAAAAJ&hl=en">View full publication list on Google Scholar &rarr;</a>
 </p>
-</div>
-
-<div class="section">
-<h2>Education</h2>
-
-<div class="education-item">
-    <span class="degree">Ph.D., Analytical Chemistry</span><br>
-    <span class="school">University of Washington, Seattle</span>
-</div>
-
-<div class="education-item">
-    <span class="degree">B.S. with High Honors, Chemistry and Mathematics</span><br>
-    <span class="school">Michigan State University</span>
-</div>
 </div>
 
 <div class="section">
