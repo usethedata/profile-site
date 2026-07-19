@@ -71,7 +71,7 @@ title: Bruce E. Wilson
 <div class="experience-item">
     <div class="role">Distinguished Staff Scientist, ORNL DAAC Manager &amp; Group Leader</div>
     <div class="org">Oak Ridge National Laboratory <span class="dates">(2018&ndash;2025)</span></div>
-    <div class="detail">Led NASA's archive center for biogeochemical dynamics and terrestrial ecology data. Managed data systems serving hundreds of thousands of global users. Managed the Remote Sensing and Environmental Informatics Group (16 people).  Promoted to Distinguished Staff Scientist in 2023.</div>
+    <div class="detail">Led NASA's archive center for biogeochemical dynamics and terrestrial ecology data. Managed data systems serving hundreds of thousands of global users. Managed the Remote Sensing and Environmental Informatics Group (16 people). Contributed to data management aspects of nuclear non-proliferation programs. Promoted to Distinguished Staff Scientist in 2023.</div>
 </div>
 
 <div class="experience-item">
@@ -84,7 +84,7 @@ title: Bruce E. Wilson
 <div class="experience-item">
     <div class="role">Lead Enterprise Architect</div>
     <div class="org">Oak Ridge National Laboratory <span class="dates">(2012&ndash;2018)</span></div>
-    <div class="detail">Designed information systems architecture for a $2B/year DOE laboratory with the broadest research portfolio among Office of Science labs.</div>
+    <div class="detail">Designed information systems architecture for a $2B/year DOE laboratory with the broadest research portfolio among Office of Science labs, including a significant national security portfolio.</div>
 </div>
 
 <div class="experience-item">
@@ -96,7 +96,7 @@ title: Bruce E. Wilson
 <div class="experience-item">
     <div class="role">ORNL DAAC Systems Engineer, Manager and Group Leader</div>
     <div class="org">Oak Ridge National Laboratory <span class="dates">(2006&ndash;2010)</span></div>
-    <div class="detail">Led ORNL DAAC systems design and implementation (2006-2008). Group Leader for 25-person Environmental Data Science and Systems Group (2008-2010).   </div>
+    <div class="detail">Led ORNL DAAC systems design and implementation (2006-2008). Group Leader for 25-person Environmental Data Science and Systems Group (2008-2010). Developed the initial version of the cyberinfrastructure for the USA National Phenology Network. Contributed to classified programs using Earth observation data for treaty enforcement.</div>
 </div>
 
 <div class="experience-item">
