@@ -158,6 +158,13 @@ title: Bruce E. Wilson
 <h2>Selected Publications</h2>
 
 <div class="publication">
+    <span class="authors">J. Gum, G. Caprarelli, A. Montanari, et al.</span>
+    <span class="title">"Impactful Datasets in Earth, Space, and Environmental Sciences: Highlighting the Data That Transform Research"</span>
+    <span class="journal">AGU Advances</span> 7(6) (2026).
+    <a href="https://doi.org/10.1029/2026AV002623">doi:10.1029/2026AV002623</a>
+</div>
+
+<div class="publication">
     <span class="authors">P.E. Thornton, R. Shrestha, M. Thornton, S.-C. Kao, Y. Wei, B.E. Wilson.</span>
     <span class="title">"Gridded Daily Weather Data for North America with Comprehensive Uncertainty Quantification"</span>
     <span class="journal">Scientific Data</span> (2021).
@@ -183,13 +190,6 @@ title: Bruce E. Wilson
     <span class="title">"Climate Change Modeling: Computational Opportunities and Challenges"</span>
     <span class="journal">Computing in Science &amp; Engineering</span> 13, 36&ndash;42 (2011).
     <a href="https://doi.org/10.1109/MCSE.2010.147">doi:10.1109/MCSE.2010.147</a>
-</div>
-
-<div class="publication">
-    <span class="authors">S.K.S. Vannan, R.B. Cook, B.E. Wilson, S.K. Holladay, L.M. Olsen, U. Dadi.</span>
-    <span class="title">"A Web-Based Subsetting Service for Regional Scale MODIS Land Products"</span>
-    <span class="journal">IEEE Journal of Selected Topics in Earth Observations and Remote Sensing</span> 2(4), 319&ndash;328 (2009).
-    <a href="https://doi.org/10.1109/JSTARS.2009.2036585">doi:10.1109/JSTARS.2009.2036585</a>
 </div>
 
 <div class="publication">
