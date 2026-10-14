@@ -27,11 +27,11 @@ title: Bruce E. Wilson
 <div class="section">
 <h2>About</h2>
 
-<p>I am a scientist and technologist with over four decades of experience designing, building, and managing information systems to enable scientific discovery and the broader use of scientific data. My career spans the chemical, material, Earth, data, information, and computer sciences.  This unusual breadth has helped me collaborate with experts across a wide range of disciplines.</p>
+<p>I am a scientist and technologist with over four decades of experience designing, building, and managing information systems to enable scientific discovery and the broader use of scientific data. My career spans the chemical, material, Earth, data, information, and computer sciences.  This unusual breadth has helped me collaborate with experts across a wide range of disciplines. My current research interests include the uses, impacts, and ethics of AI in science and engineering, particularly in the data and information sciences.</p>
 
 <p>My work over much of the last two decades has focused on making Earth science data as Findable, Accessible, Interoperable, and Reusable (FAIR) as practical. As Manager of the NASA-funded <a href="https://www.earthdata.nasa.gov/centers/ornl-daac">ORNL Distributed Active Archive Center</a> (ORNL DAAC), I led one of the data archive and distribution centers in NASA's Earth Observing System Data and Information System (EOSDIS), which serves hundreds of thousands of users worldwide. </p>
 
-<p>I retired from Oak Ridge National Laboratory in September 2025 and now provide independent consulting on scientific data infrastructure and scientific data management. I also serve on the <a href="https://science.nasa.gov/astrobiology/strategy/dares/">NASA DARES Task Force 2</a> (Decadal Astrobiology Research and Exploration Strategy) and hold a Graduate Research Advisor appointment at the University of Tennessee's <a href="https://bredesencenter.utk.edu/">Bredesen Center for Interdisciplinary Studies</a>. I am currently experimenting with using AI methods to develop and execute data pipelines as part of a passion project.</p>
+<p>I retired from Oak Ridge National Laboratory in September 2025 and now provide independent consulting, particularly in scientific data infrastructure and scientific data management. I also serve on the <a href="https://science.nasa.gov/astrobiology/strategy/dares/">NASA DARES Task Force 2</a> (Decadal Astrobiology Research and Exploration Strategy) and hold a Graduate Research Advisor appointment at the University of Tennessee's <a href="https://bredesencenter.utk.edu/">Bredesen Center for Interdisciplinary Studies</a>. </p>
 
 <p>Contact me at <a href="mailto: bruce@usethedata.net">bruce@usethedata.net</a> if you're interested in discussing consulting work.</p>
 </div>
@@ -134,7 +134,7 @@ title: Bruce E. Wilson
 </div>
 
 <div class="experience-item">
-    <div class="role">Pacific Northwest National Laboratory Assessment of Data Management Practices<span class="dates">(2021&ndash;2021)</span></div>
+    <div class="role">Pacific Northwest National Laboratory Assessment of Data Management Practices <span class="dates">(2021&ndash;2021)</span></div>
     <div class="detail">Invited panel member.</div>
 </div>
 
@@ -150,7 +150,7 @@ title: Bruce E. Wilson
 
 <div class="experience-item">
     <div class="role">Proposal Reviewer <span class="dates">(Ongoing)</span></div>
-    <div class="detail">Reviewer for approximately 25 proposal review panels across NASA, NSF, DOE, and USGS (2006-present).</div>
+    <div class="detail">Reviewer for 30+ review panels across NASA, NSF, DOE, and USGS (2006-present).</div>
 </div>
 </div>
 
